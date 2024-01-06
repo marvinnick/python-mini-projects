@@ -39,7 +39,7 @@ pathlib==1.0.1
 proxytest==0.5.4
 psutil==5.7.2
 py-notifier==0.1
-pycryptodome==3.9.8
+pycryptodome==3.19.1
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
