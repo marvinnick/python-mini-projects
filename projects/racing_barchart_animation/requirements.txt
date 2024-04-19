@@ -1,6 +1,12 @@
-jupyterlab==2.2.2
+jupyterlab==3.6.7
 matplotlib==3.3.0
-notebook==6.1.1
-numpy==1.19.1
+notebook==6.4.12
+numpy==1.22.2
 pandas==1.1.0
-requests==2.24.0
+requests==2.31.0
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=1.26.18 # not directly required, pinned by Snyk to avoid a vulnerability
