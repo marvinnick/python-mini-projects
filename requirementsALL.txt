@@ -50,7 +50,7 @@ soupsieve==2.0.1
 sumeval==0.2.2
 sumy==0.8.1
 tensorflow==2.5.1
-tqdm==4.48.2
+tqdm==4.66.3
 tweepy==3.9.0
 urllib3==1.26.5
 utils==1.0.1
