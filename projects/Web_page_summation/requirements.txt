@@ -8,3 +8,4 @@ numpy==1.19.1
 newspaper==0.1.0.7
 nltk==3.5
 gensim==3.8.3
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
